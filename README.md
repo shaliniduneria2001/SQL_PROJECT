@@ -1,2 +1,2 @@
 # SQL_PROJECT
-This ia sql end to end project.
+This is a sql end to end project.
